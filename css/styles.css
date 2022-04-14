@@ -1,0 +1,23 @@
+body {
+  background-color: #1C0A00;
+  color: #CC9544;
+  font-family: Papyrus;
+
+}
+hr {
+  border-style: dotted none none none;
+  border-color: #361500;
+  border-width: 5px;
+  background-color: #1C0A00;
+  height: 1px;
+  width: 5%;
+      }
+h1 {color: #603601;
+      }
+
+h3 {color: #603601;
+            }
+
+a {color: #247881;
+
+}
