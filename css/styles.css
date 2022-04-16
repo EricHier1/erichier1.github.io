@@ -21,3 +21,15 @@ h3 {color: #603601;
 a {color: #247881;
 
 }
+
+a:hover {
+  color: silver;
+  }
+
+/*
+
+.circular {
+  border-radius: 100%;
+}
+
+*/
