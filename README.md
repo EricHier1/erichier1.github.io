@@ -11,7 +11,7 @@
   </head>
   <body>
   <div style="padding-bottom: 50px;" class="top-container">
-  <img class="top-cloud" src="images/cloud.png" alt="cloud">
+  <img class="top-cloud" src="cloud.png" alt="cloud">
     <h1>I'm Eric.</h1>
     <p>a <span class="pro">pro</span>grammer in <span class="pro">pro</span>gress.</p>
   <img class="bottom-cloud" src="cloud.png" alt="cloud">
